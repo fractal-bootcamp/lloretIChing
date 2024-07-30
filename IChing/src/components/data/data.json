@@ -1,0 +1,645 @@
+{
+    "IChing": [
+      {
+        "number": 1,
+        "name": "The Creative",
+        "description": "Heaven. The force of creativity and power.",
+        "ideogram": "☰",
+        "ancientChinese": {
+          "character": "乾",
+          "pronunciation": "Qián"
+        }
+      },
+      {
+        "number": 2,
+        "name": "The Receptive",
+        "description": "Earth. The force of receptivity and yielding.",
+        "ideogram": "☷",
+        "ancientChinese": {
+          "character": "坤",
+          "pronunciation": "Kūn"
+        }
+      },
+      {
+        "number": 3,
+        "name": "Difficulty at the Beginning",
+        "description": "Initial difficulties are expected, but persistence will lead to success.",
+        "ideogram": "☵",
+        "ancientChinese": {
+          "character": "屯",
+          "pronunciation": "Zhūn"
+        }
+      },
+      {
+        "number": 4,
+        "name": "Youthful Folly",
+        "description": "Inexperience and immaturity must be overcome with guidance.",
+        "ideogram": "☳",
+        "ancientChinese": {
+          "character": "蒙",
+          "pronunciation": "Méng"
+        }
+      },
+      {
+        "number": 5,
+        "name": "Waiting",
+        "description": "The time is not yet right. Patience will bring success.",
+        "ideogram": "☰",
+        "ancientChinese": {
+          "character": "需",
+          "pronunciation": "Xū"
+        }
+      },
+      {
+        "number": 6,
+        "name": "Conflict",
+        "description": "Opposition and struggle. Need to address conflict with care.",
+        "ideogram": "☷",
+        "ancientChinese": {
+          "character": "訟",
+          "pronunciation": "Sòng"
+        }
+      },
+      {
+        "number": 7,
+        "name": "The Army",
+        "description": "Discipline and organization are key. Leadership and strength are needed.",
+        "ideogram": "☵",
+        "ancientChinese": {
+          "character": "師",
+          "pronunciation": "Shī"
+        }
+      },
+      {
+        "number": 8,
+        "name": "Holding Together",
+        "description": "Unity and cooperation are essential for success.",
+        "ideogram": "☳",
+        "ancientChinese": {
+          "character": "比",
+          "pronunciation": "Bǐ"
+        }
+      },
+      {
+        "number": 9,
+        "name": "Taming the Power of the Small",
+        "description": "Control and moderation are necessary for growth.",
+        "ideogram": "☰",
+        "ancientChinese": {
+          "character": "小畜",
+          "pronunciation": "Xiǎo Xù"
+        }
+      },
+      {
+        "number": 10,
+        "name": "Treading",
+        "description": "Caution and careful steps are required.",
+        "ideogram": "☷",
+        "ancientChinese": {
+          "character": "履",
+          "pronunciation": "Lǚ"
+        }
+      },
+      {
+        "number": 11,
+        "name": "Peace",
+        "description": "Harmony and balance are achieved, leading to a prosperous situation.",
+        "ideogram": "☵",
+        "ancientChinese": {
+          "character": "泰",
+          "pronunciation": "Tài"
+        }
+      },
+      {
+        "number": 12,
+        "name": "Standstill",
+        "description": "A period of stagnation or pause is necessary for change.",
+        "ideogram": "☳",
+        "ancientChinese": {
+          "character": "否",
+          "pronunciation": "Pǐ"
+        }
+      },
+      {
+        "number": 13,
+        "name": "Fellowship with Men",
+        "description": "Building relationships and alliances is beneficial.",
+        "ideogram": "☰",
+        "ancientChinese": {
+          "character": "同人",
+          "pronunciation": "Tóng Rén"
+        }
+      },
+      {
+        "number": 14,
+        "name": "Possession in Great Measure",
+        "description": "Abundance and prosperity can be enjoyed but require responsibility.",
+        "ideogram": "☷",
+        "ancientChinese": {
+          "character": "大畜",
+          "pronunciation": "Dà Xù"
+        }
+      },
+      {
+        "number": 15,
+        "name": "Modesty",
+        "description": "Humility and modesty lead to respect and success.",
+        "ideogram": "☵",
+        "ancientChinese": {
+          "character": "謙",
+          "pronunciation": "Qiān"
+        }
+      },
+      {
+        "number": 16,
+        "name": "Enthusiasm",
+        "description": "Energy and motivation drive progress and success.",
+        "ideogram": "☳",
+        "ancientChinese": {
+          "character": "豫",
+          "pronunciation": "Yù"
+        }
+      },
+      {
+        "number": 17,
+        "name": "Following",
+        "description": "Alignment with others and accepting guidance brings positive outcomes.",
+        "ideogram": "☰",
+        "ancientChinese": {
+          "character": "隨",
+          "pronunciation": "Suí"
+        }
+      },
+      {
+        "number": 18,
+        "name": "Work on What Has Been Spoiled",
+        "description": "Address and rectify past errors to create improvement.",
+        "ideogram": "☷",
+        "ancientChinese": {
+          "character": "蠱",
+          "pronunciation": "Gǔ"
+        }
+      },
+      {
+        "number": 19,
+        "name": "Approach",
+        "description": "Positive influence and approach lead to success and advancement.",
+        "ideogram": "☵",
+        "ancientChinese": {
+          "character": "臨",
+          "pronunciation": "Lín"
+        }
+      },
+      {
+        "number": 20,
+        "name": "Contemplation",
+        "description": "Reflection and observation are necessary for understanding.",
+        "ideogram": "☳",
+        "ancientChinese": {
+          "character": "觀",
+          "pronunciation": "Guān"
+        }
+      },
+      {
+        "number": 21,
+        "name": "Biting Through",
+        "description": "Addressing and overcoming obstacles requires determination.",
+        "ideogram": "☰",
+        "ancientChinese": {
+          "character": "噬嗑",
+          "pronunciation": "Shì Kè"
+        }
+      },
+      {
+        "number": 22,
+        "name": "Grace",
+        "description": "Beauty and elegance in actions lead to harmony.",
+        "ideogram": "☷",
+        "ancientChinese": {
+          "character": "賁",
+          "pronunciation": "Bì"
+        }
+      },
+      {
+        "number": 23,
+        "name": "Splitting Apart",
+        "description": "Challenges and separations may occur, requiring adaptation.",
+        "ideogram": "☵",
+        "ancientChinese": {
+          "character": "剝",
+          "pronunciation": "Bō"
+        }
+      },
+      {
+        "number": 24,
+        "name": "Return",
+        "description": "A time of renewal and returning to basics is beneficial.",
+        "ideogram": "☳",
+        "ancientChinese": {
+          "character": "復",
+          "pronunciation": "Fù"
+        }
+      },
+      {
+        "number": 25,
+        "name": "Innocence",
+        "description": "Simplicity and sincerity lead to good fortune.",
+        "ideogram": "☰",
+        "ancientChinese": {
+          "character": "無妄",
+          "pronunciation": "Wú Wàng"
+        }
+      },
+      {
+        "number": 26,
+        "name": "Taming the Great",
+        "description": "Discipline and control of powerful forces are required for success.",
+        "ideogram": "☷",
+        "ancientChinese": {
+          "character": "大畜",
+          "pronunciation": "Dà Xù"
+        }
+      },
+      {
+        "number": 27,
+        "name": "Nourishment",
+        "description": "Proper nourishment and care are essential for growth.",
+        "ideogram": "☵",
+        "ancientChinese": {
+          "character": "頤",
+          "pronunciation": "Yí"
+        }
+      },
+      {
+        "number": 28,
+        "name": "Greatness in Excess",
+        "description": "Handling excess and challenges requires strength and balance.",
+        "ideogram": "☳",
+        "ancientChinese": {
+          "character": "大過",
+          "pronunciation": "Dà Guò"
+        }
+      },
+      {
+        "number": 29,
+        "name": "The Abysmal",
+        "description": "Facing and overcoming dangers with courage.",
+        "ideogram": "☰",
+        "ancientChinese": {
+          "character": "坎",
+          "pronunciation": "Kǎn"
+        }
+      },
+      {
+        "number": 30,
+        "name": "The Clinging",
+        "description": "Adhering to principles and clarity brings success.",
+        "ideogram": "☷",
+        "ancientChinese": {
+          "character": "離",
+          "pronunciation": "Lí"
+        }
+      },
+      {
+        "number": 31,
+        "name": "Influence",
+        "description": "Softness and gentle influence achieve results.",
+        "ideogram": "☵",
+        "ancientChinese": {
+          "character": "咸",
+          "pronunciation": "Xián"
+        }
+      },
+      {
+        "number": 32,
+        "name": "Duration",
+        "description": "Consistency and perseverance lead to lasting success.",
+        "ideogram": "☳",
+        "ancientChinese": {
+          "character": "恆",
+          "pronunciation": "Héng"
+        }
+      },
+      {
+        "number": 33,
+        "name": "Retreat",
+        "description": "Withdrawing or retreating temporarily to gain advantage.",
+        "ideogram": "☰",
+        "ancientChinese": {
+          "character": "遯",
+          "pronunciation": "Dùn"
+        }
+      },
+      {
+        "number": 34,
+        "name": "The Power of the Great",
+        "description": "Harnessing great power with responsibility and wisdom.",
+        "ideogram": "☷",
+        "ancientChinese": {
+          "character": "大畜",
+          "pronunciation": "Dà Xù"
+        }
+      },
+      {
+        "number": 35,
+        "name": "Progress",
+        "description": "Advancement and success come through diligence and effort.",
+        "ideogram": "☵",
+        "ancientChinese": {
+          "character": "晉",
+          "pronunciation": "Jìn"
+        }
+      },
+      {
+        "number": 36,
+        "name": "Darkening of the Light",
+        "description": "Periods of darkness and difficulty require inner strength.",
+        "ideogram": "☳",
+        "ancientChinese": {
+          "character": "明夷",
+          "pronunciation": "Míng Yí"
+        }
+      },
+      {
+        "number": 37,
+        "name": "The Family",
+        "description": "Family and community support bring stability and growth.",
+        "ideogram": "☰",
+        "ancientChinese": {
+          "character": "家人",
+          "pronunciation": "Jiā Rén"
+        }
+      },
+      {
+        "number": 38,
+        "name": "Opposition",
+        "description": "Differences and opposition must be managed carefully.",
+        "ideogram": "☷",
+        "ancientChinese": {
+          "character": "睽",
+          "pronunciation": "Kuī"
+        }
+      },
+      {
+        "number": 39,
+        "name": "Obstruction",
+        "description": "Challenges and obstacles must be overcome with perseverance.",
+        "ideogram": "☵",
+        "ancientChinese": {
+          "character": "蹇",
+          "pronunciation": "Jiǎn"
+        }
+      },
+      {
+        "number": 40,
+        "name": "Deliverance",
+        "description": "Relief from difficulties and obstacles through action and persistence.",
+        "ideogram": "☳",
+        "ancientChinese": {
+          "character": "解",
+          "pronunciation": "Xiè"
+        }
+      },
+      {
+        "number": 41,
+        "name": "Decrease",
+        "description": "Reduction or limitation leads to new opportunities and growth.",
+        "ideogram": "☰",
+        "ancientChinese": {
+          "character": "損",
+          "pronunciation": "Sǔn"
+        }
+      },
+      {
+        "number": 42,
+        "name": "Increase",
+        "description": "Growth and increase are achieved through generosity and action.",
+        "ideogram": "☷",
+        "ancientChinese": {
+          "character": "益",
+          "pronunciation": "Yì"
+        }
+      },
+      {
+        "number": 43,
+        "name": "Breakthrough",
+        "description": "Determination and strength lead to breakthroughs and overcoming obstacles.",
+        "ideogram": "☵",
+        "ancientChinese": {
+          "character": "夬",
+          "pronunciation": "Guài"
+        }
+      },
+      {
+        "number": 44,
+        "name": "Coming to Meet",
+        "description": "Interactions and encounters must be approached with caution.",
+        "ideogram": "☳",
+        "ancientChinese": {
+          "character": "姤",
+          "pronunciation": "Gòu"
+        }
+      },
+      {
+        "number": 45,
+        "name": "Gathering Together",
+        "description": "Unity and collaboration are essential for success and achievement.",
+        "ideogram": "☰",
+        "ancientChinese": {
+          "character": "萃",
+          "pronunciation": "Cuì"
+        }
+      },
+      {
+        "number": 46,
+        "name": "Pushing Upward",
+        "description": "Progress and growth require effort and perseverance.",
+        "ideogram": "☷",
+        "ancientChinese": {
+          "character": "升",
+          "pronunciation": "Shēng"
+        }
+      },
+      {
+        "number": 47,
+        "name": "Oppression",
+        "description": "Struggles and hardships require endurance and resilience.",
+        "ideogram": "☵",
+        "ancientChinese": {
+          "character": "困",
+          "pronunciation": "Kùn"
+        }
+      },
+      {
+        "number": 48,
+        "name": "The Well",
+        "description": "Sustenance and nourishment are provided by sources of support and care.",
+        "ideogram": "☳",
+        "ancientChinese": {
+          "character": "井",
+          "pronunciation": "Jǐng"
+        }
+      },
+      {
+        "number": 49,
+        "name": "Revolution",
+        "description": "Change and transformation require bold actions and decisions.",
+        "ideogram": "☰",
+        "ancientChinese": {
+          "character": "革",
+          "pronunciation": "Gé"
+        }
+      },
+      {
+        "number": 50,
+        "name": "The Cauldron",
+        "description": "Transformation and refinement through processes and rituals.",
+        "ideogram": "☷",
+        "ancientChinese": {
+          "character": "鼎",
+          "pronunciation": "Dǐng"
+        }
+      },
+      {
+        "number": 51,
+        "name": "The Arousing",
+        "description": "Dynamic energy and stimulation lead to action and movement.",
+        "ideogram": "☵",
+        "ancientChinese": {
+          "character": "震",
+          "pronunciation": "Zhèn"
+        }
+      },
+      {
+        "number": 52,
+        "name": "Keeping Still",
+        "description": "Stability and stillness provide strength and clarity.",
+        "ideogram": "☳",
+        "ancientChinese": {
+          "character": "艮",
+          "pronunciation": "Gèn"
+        }
+      },
+      {
+        "number": 53,
+        "name": "Development",
+        "description": "Gradual growth and development lead to progress and success.",
+        "ideogram": "☰",
+        "ancientChinese": {
+          "character": "漸",
+          "pronunciation": "Jiàn"
+        }
+      },
+      {
+        "number": 54,
+        "name": "The Marrying Maiden",
+        "description": "Entering into new situations or relationships requires care and respect.",
+        "ideogram": "☷",
+        "ancientChinese": {
+          "character": "歸妹",
+          "pronunciation": "Guī Mèi"
+        }
+      },
+      {
+        "number": 55,
+        "name": "Abundance",
+        "description": "An abundant and flourishing situation results from hard work and preparation.",
+        "ideogram": "☵",
+        "ancientChinese": {
+          "character": "豐",
+          "pronunciation": "Fēng"
+        }
+      },
+      {
+        "number": 56,
+        "name": "The Wanderer",
+        "description": "Travel and exploration provide opportunities and experiences.",
+        "ideogram": "☳",
+        "ancientChinese": {
+          "character": "旅",
+          "pronunciation": "Lǚ"
+        }
+      },
+      {
+        "number": 57,
+        "name": "The Gentle",
+        "description": "Gentle and gradual influence leads to positive change.",
+        "ideogram": "☰",
+        "ancientChinese": {
+          "character": "巽",
+          "pronunciation": "Xùn"
+        }
+      },
+      {
+        "number": 58,
+        "name": "The Joyous",
+        "description": "Joy and pleasure bring positive outcomes and relationships.",
+        "ideogram": "☷",
+        "ancientChinese": {
+          "character": "兌",
+          "pronunciation": "Duì"
+        }
+      },
+      {
+        "number": 59,
+        "name": "Dispersion",
+        "description": "Scattering and dispersing lead to new opportunities and beginnings.",
+        "ideogram": "☵",
+        "ancientChinese": {
+          "character": "散",
+          "pronunciation": "Sàn"
+        }
+      },
+      {
+        "number": 60,
+        "name": "Limitation",
+        "description": "Constraints and limitations bring about new directions and insights.",
+        "ideogram": "☳",
+        "ancientChinese": {
+          "character": "節",
+          "pronunciation": "Jié"
+        }
+      },
+      {
+        "number": 61,
+        "name": "Inner Truth",
+        "description": "Self-awareness and inner truth guide actions and decisions.",
+        "ideogram": "☰",
+        "ancientChinese": {
+          "character": "中孚",
+          "pronunciation": "Zhōng Fū"
+        }
+      },
+      {
+        "number": 62,
+        "name": "Preponderance of the Small",
+        "description": "Small and careful steps lead to significant results and changes.",
+        "ideogram": "☷",
+        "ancientChinese": {
+          "character": "小畜",
+          "pronunciation": "Xiǎo Xù"
+        }
+      },
+      {
+        "number": 63,
+        "name": "After Completion",
+        "description": "Completion leads to new beginnings and opportunities.",
+        "ideogram": "☵",
+        "ancientChinese": {
+          "character": "既濟",
+          "pronunciation": "Jì Jì"
+        }
+      },
+      {
+        "number": 64,
+        "name": "Before Completion",
+        "description": "Preparation and patience lead to successful completion and achievement.",
+        "ideogram": "☳",
+        "ancientChinese": {
+          "character": "未濟",
+          "pronunciation": "Wèi Jì"
+        }
+      }
+    ]
+  }
+  
